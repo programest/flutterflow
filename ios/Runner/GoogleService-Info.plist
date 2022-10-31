@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>154239903816-3t46p2vk8dkcj6udg9lnm4ulv9apnqaq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.154239903816-3t46p2vk8dkcj6udg9lnm4ulv9apnqaq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>154239903816-ijilmiq2t7buct0mc3r11qroldag668m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDm2KGHUc31Etvab8bPdQUjAq41Y1tIVXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>154239903816</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.zooov</string>
+	<key>PROJECT_ID</key>
+	<string>zooov-5f770</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zooov-5f770.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:154239903816:ios:c922100f95142e27fc907d</string>
+</dict>
+</plist>
